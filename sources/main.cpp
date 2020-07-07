@@ -3,10 +3,10 @@
 #include "mariam.h"
 using namespace std;
 
-int main(
+int main()
 {
 	markadil2001();
 	mariam606();
 
 	return 0;
-})
+}
